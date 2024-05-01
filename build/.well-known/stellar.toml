@@ -1,29 +1,31 @@
 VERSION="2.2.1"
 
 ACCOUNTS=[
-"GDOSQQPEMT7GKIFEK7CHHNKEWJYTNYZYJHAOATLW7EJCECPF5L6DT4LA",
+"",
 ]
 
 [DOCUMENTATION]
-ORG_NAME="Whiplash SpaceX"
-ORG_URL="https://whiplash-spacex.org"
-ORG_DESCRIPTION="SpaceX Premium accessibility for WhipLash users."
-ORG_LOGO="https://i.ibb.co/Jsy6C5b/spacex.png"
+ORG_NAME="xRapid"
+ORG_URL=""
+ORG_DESCRIPTION="Major fund transfer companies have also begun to introduce it, and the use of xRapid using $XRP is becoming more widespread, and the number of companies participating in RippleNet is increasing significantly. Therefore, in that sense, I think that Ripple’s technology will gradually be used in the international remittance field, as well as XRP"
+ORG_LOGO="https://i.ibb.co/TmNQbgS/kitao.jpg"
 
 [[PRINCIPALS]]
-name="Elon Musk"
+name="Yoshitaka Kitao"
 
 
 [[CURRENCIES]]
-code="WHIPSPACEX"
+name="xRapid"
+code="XRP"
 status="live"
 display_decimals=2
-issuer="GDOSQQPEMT7GKIFEK7CHHNKEWJYTNYZYJHAOATLW7EJCECPF5L6DT4LA"
-anchor_asset_type="stock"
-name="WhipLash&SpaceX"
-desc="Unleash new possibilities of holding SpaceX shares among the WhipLash community. Have the chance to acquire a SpaceX stock cheaper than average platforms."
+issuer=""
+is_asset_anchored=true
+anchor_asset="XRP"
+anchor_asset_type="Crypto"
+desc="Major fund transfer companies have also begun to introduce it, and the use of xRapid using $XRP is becoming more widespread, and the number of companies participating in RippleNet is increasing significantly. Therefore, in that sense, I think that Ripple’s technology will gradually be used in the international remittance field, as well as XRP"
 image="https://i.ibb.co/2WDWX4F/spacex.png"
-fixed_number=1000000
-max_number=1000000
+fixed_number=1000000000
+max_number=1000000000
 is_unlimited=false
-# WhipLash&SpaceX was issued using the open and inclusive Stellar blockchain network.
+# xRapid was issued using the open and inclusive Stellar blockchain network.
