@@ -1,7 +1,7 @@
 VERSION="2.2.1"
 
 ACCOUNTS=[
-"",
+"GALL6MVSTC63COUGP4TUO3TUBTJNEUUTPEDJBWH733TZ7HDA4JDUSNOP",
 ]
 
 [DOCUMENTATION]
@@ -19,12 +19,12 @@ name="xRapid"
 code="XRP"
 status="live"
 display_decimals=2
-issuer=""
+issuer="GALL6MVSTC63COUGP4TUO3TUBTJNEUUTPEDJBWH733TZ7HDA4JDUSNOP"
 is_asset_anchored=true
 anchor_asset="XRP"
 anchor_asset_type="Crypto"
 desc="Major fund transfer companies have also begun to introduce it, and the use of xRapid using $XRP is becoming more widespread, and the number of companies participating in RippleNet is increasing significantly. Therefore, in that sense, I think that Ripple’s technology will gradually be used in the international remittance field, as well as XRP"
-image="https://i.ibb.co/2WDWX4F/spacex.png"
+image="https://i.ibb.co/2WPxnbD/decentral-2938rq3311432u-xrp-Background-Removed.png"
 fixed_number=1000000000
 max_number=1000000000
 is_unlimited=false
