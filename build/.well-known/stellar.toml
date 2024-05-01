@@ -6,7 +6,7 @@ ACCOUNTS=[
 
 [DOCUMENTATION]
 ORG_NAME="xRapid"
-ORG_URL=""
+ORG_URL="https://xrp-jappan.org"
 ORG_DESCRIPTION="Major fund transfer companies have also begun to introduce it, and the use of xRapid using $XRP is becoming more widespread, and the number of companies participating in RippleNet is increasing significantly. Therefore, in that sense, I think that Ripple’s technology will gradually be used in the international remittance field, as well as XRP"
 ORG_LOGO="https://i.ibb.co/TmNQbgS/kitao.jpg"
 
@@ -22,7 +22,7 @@ display_decimals=2
 issuer="GALL6MVSTC63COUGP4TUO3TUBTJNEUUTPEDJBWH733TZ7HDA4JDUSNOP"
 is_asset_anchored=true
 anchor_asset="XRP"
-anchor_asset_type="Crypto"
+anchor_asset_type="crypto"
 desc="Major fund transfer companies have also begun to introduce it, and the use of xRapid using $XRP is becoming more widespread, and the number of companies participating in RippleNet is increasing significantly. Therefore, in that sense, I think that Ripple’s technology will gradually be used in the international remittance field, as well as XRP"
 image="https://i.ibb.co/2WPxnbD/decentral-2938rq3311432u-xrp-Background-Removed.png"
 fixed_number=1000000000
