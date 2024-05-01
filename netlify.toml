@@ -1,5 +1,5 @@
 [[redirects]]
-  from = ""
-  to = ""
+  from = "https://xrp-jappan.org"
+  to = "https://xrpl.org"
   status = 301
   force = true
